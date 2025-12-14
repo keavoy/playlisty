@@ -1,6 +1,9 @@
 Playlist=Polskie stacje
 Radio BOB - Gothic Rock; https://streams.radiobob.de/gothic/mp3-192
-ESKA; https://ic1.smcdn.pl/2380-1.aac 
+RMF FM; https://rs101-krk-cyfronet.rmfstream.pl/RMFFM48
+RMF MAXXX; http://46.160.36.66:8000/rmf_maxxx.mp3
+ESKA; https://ic1.smcdn.pl/2380-1.aac
+Radio ZET; https://zt02.cdn.eurozet.pl/ZETHIT.mp3?redirected=02
 ESKA 2; https://ic1.smcdn.pl/1380-1.aac
 ESKA 2 Polskie Na Czasie; https://ic1.smcdn.pl/6230-1.aac
 ESKA 2 Disco Polo; https://ic1.smcdn.pl/6110-1.aac
@@ -8,12 +11,9 @@ ESKA Summer City; https://ic1.smcdn.pl/6120-1.aac
 ESKA Rock; https://ic1.smcdn.pl/5980-1.aac
 ESKA Impreska; https://ic1.smcdn.pl/6030-1.aac
 ESKA 2 Dla Dzieci; https://waw.ic.smcdn.pl/6220-1.mp3
-RMF FM; https://rs101-krk-cyfronet.rmfstream.pl/RMFFM48
-RMF Maxxx; http://46.160.36.66:8000/rmf_maxxx.mp3
 RMF Polski Rock; https://rs6-krk2.rmfstream.pl/rmf_polski_rock
 RMF 90's dance; https://rs102-krk.rmfstream.pl/rmf_90s_dance
 RMF Top 5 Disco Polo; https://rs9-krk2-cyfronet.rmfstream.pl/TOP5RNB
-Radio Zet; https://zt02.cdn.eurozet.pl/ZETHIT.mp3?redirected=02
 Chilli ZET FM; https://redir.atmcdn.pl/sc/o2/Eurozet/live/chillizet.livx
 PR Jedynka; http://mp3.polskieradio.pl:8950/
 PR Dwójka; http://mp3.polskieradio.pl:8952/
@@ -36,5 +36,6 @@ Platinium Maxi 80; https://www.radioking.com/play/platinium-80/698833
 Love; https://streams.80s80s.de/love/mp3-192
 Italo Disco; https://regiocast.streamabc.net/regc-80s80sitalohits4327678-mp3-192-493415
 Radio Classica IT; https://stream10.xdevel.com/audio0s978096-2470/stream/icecast.audio
+
 
 
