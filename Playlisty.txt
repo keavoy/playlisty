@@ -14,6 +14,7 @@ ESKA 2 Dla Dzieci; https://waw.ic.smcdn.pl/6220-1.mp3
 RMF Polski Rock; https://rs6-krk2.rmfstream.pl/rmf_polski_rock
 RMF 90's dance; https://rs102-krk.rmfstream.pl/rmf_90s_dance
 RMF Top 5 Disco Polo; https://rs9-krk2-cyfronet.rmfstream.pl/TOP5RNB
+RMF Hip-Hop; http://rmfstream1.interia.pl:8000/rmf_hip_hop
 Chilli ZET FM; https://redir.atmcdn.pl/sc/o2/Eurozet/live/chillizet.livx
 PR Jedynka; http://mp3.polskieradio.pl:8950/
 PR Dwójka; http://mp3.polskieradio.pl:8952/
@@ -29,13 +30,15 @@ Rock Radio; https://radiostream.pl/tuba9006-1.mp3
 Radio Express FM; https://radioexpress.pl/stream2 
 Radio Max Hit Polska; https://s3.slotex.pl:7370/stream
 
-Playlist=Lata '80
+Playlist=Zagraniczne
+HOTMIX - K-POP; https://streaming.hotmixradio.fr/hotmix-k-pop-en-pre 
 Depeche Mode; https://regiocast.streamabc.net/regc-80s80sdm4383853-mp3-192-4947593
 Super Dance Floor; https://s41.myradiostream.com:33604/;
 Platinium Maxi 80; https://www.radioking.com/play/platinium-80/698833
 Love; https://streams.80s80s.de/love/mp3-192
 Italo Disco; https://regiocast.streamabc.net/regc-80s80sitalohits4327678-mp3-192-493415
 Radio Classica IT; https://stream10.xdevel.com/audio0s978096-2470/stream/icecast.audio
+
 
 
 
