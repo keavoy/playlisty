@@ -1,4 +1,5 @@
 Playlist=Polskie stacje
+Radio BOB - Gothic Rock; https://streams.radiobob.de/gothic/mp3-192
 ESKA; https://ic1.smcdn.pl/2380-1.aac 
 ESKA 2; https://ic1.smcdn.pl/1380-1.aac
 ESKA 2 Polskie Na Czasie; https://ic1.smcdn.pl/6230-1.aac
@@ -35,4 +36,5 @@ Platinium Maxi 80; https://www.radioking.com/play/platinium-80/698833
 Love; https://streams.80s80s.de/love/mp3-192
 Italo Disco; https://regiocast.streamabc.net/regc-80s80sitalohits4327678-mp3-192-493415
 Radio Classica IT; https://stream10.xdevel.com/audio0s978096-2470/stream/icecast.audio
+
 
