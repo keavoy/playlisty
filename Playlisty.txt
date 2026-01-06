@@ -35,8 +35,7 @@ HOTMIX - K-POP; https://streaming.hotmixradio.fr/hotmix-k-pop-en-pre
 Depeche Mode; https://regiocast.streamabc.net/regc-80s80sdm4383853-mp3-192-4947593
 Super Dance Floor; https://s41.myradiostream.com:33604/;
 Platinium Maxi 80; https://www.radioking.com/play/platinium-80/698833
-Love; https://streams.80s80s.de/love/mp3-192
-Italo Disco; https://regiocast.streamabc.net/regc-80s80sitalohits4327678-mp3-192-493415
+Love; https://streams.80s80s.de/love/mp3-192
 Radio Classica IT; https://stream10.xdevel.com/audio0s978096-2470/stream/icecast.audio
 
 
